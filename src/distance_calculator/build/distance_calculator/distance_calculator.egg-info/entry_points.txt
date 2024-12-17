@@ -1,0 +1,4 @@
+[console_scripts]
+click_to_depth = distance_calculator.click_to_depth:main
+distance_calculator = distance_calculator.distance_calculator:main
+

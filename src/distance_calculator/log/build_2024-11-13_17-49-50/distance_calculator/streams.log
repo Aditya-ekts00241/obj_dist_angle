@@ -1,0 +1,43 @@
+[0.585s] Invoking command in '/home/kalyani-robotics/ros2_ws/src/distance_calculator': PYTHONPATH=/home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/distance_calculator build --build-base /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/build install --record /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/install.log --single-version-externally-managed install_data
+[0.809s] running egg_info
+[0.809s] creating build/distance_calculator/distance_calculator.egg-info
+[0.809s] writing build/distance_calculator/distance_calculator.egg-info/PKG-INFO
+[0.810s] writing dependency_links to build/distance_calculator/distance_calculator.egg-info/dependency_links.txt
+[0.810s] writing entry points to build/distance_calculator/distance_calculator.egg-info/entry_points.txt
+[0.810s] writing requirements to build/distance_calculator/distance_calculator.egg-info/requires.txt
+[0.810s] writing top-level names to build/distance_calculator/distance_calculator.egg-info/top_level.txt
+[0.810s] writing manifest file 'build/distance_calculator/distance_calculator.egg-info/SOURCES.txt'
+[0.811s] reading manifest file 'build/distance_calculator/distance_calculator.egg-info/SOURCES.txt'
+[0.811s] writing manifest file 'build/distance_calculator/distance_calculator.egg-info/SOURCES.txt'
+[0.812s] running build
+[0.812s] running build_py
+[0.812s] creating /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/build
+[0.812s] creating /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/build/lib
+[0.812s] creating /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/build/lib/distance_calculator
+[0.813s] copying distance_calculator/click_to_depth.py -> /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/build/lib/distance_calculator
+[0.813s] copying distance_calculator/__init__.py -> /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/build/lib/distance_calculator
+[0.813s] copying distance_calculator/distance_calculator.py -> /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/build/lib/distance_calculator
+[0.813s] running install
+[0.813s] running install_lib
+[0.813s] creating /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/lib/python3.10/site-packages/distance_calculator
+[0.814s] copying /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/build/lib/distance_calculator/click_to_depth.py -> /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/lib/python3.10/site-packages/distance_calculator
+[0.814s] copying /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/build/lib/distance_calculator/__init__.py -> /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/lib/python3.10/site-packages/distance_calculator
+[0.814s] copying /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/build/lib/distance_calculator/distance_calculator.py -> /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/lib/python3.10/site-packages/distance_calculator
+[0.814s] byte-compiling /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/lib/python3.10/site-packages/distance_calculator/click_to_depth.py to click_to_depth.cpython-310.pyc
+[0.814s] byte-compiling /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/lib/python3.10/site-packages/distance_calculator/__init__.py to __init__.cpython-310.pyc
+[0.815s] byte-compiling /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/lib/python3.10/site-packages/distance_calculator/distance_calculator.py to distance_calculator.cpython-310.pyc
+[0.815s] running install_data
+[0.815s] creating /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/share/ament_index
+[0.815s] creating /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/share/ament_index/resource_index
+[0.815s] creating /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/share/ament_index/resource_index/packages
+[0.815s] copying resource/distance_calculator -> /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/share/ament_index/resource_index/packages
+[0.816s] copying package.xml -> /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/share/distance_calculator
+[0.816s] creating /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/share/distance_calculator/launch
+[0.816s] copying launch/realsense_launch.py -> /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/share/distance_calculator/launch
+[0.816s] running install_egg_info
+[0.816s] Copying build/distance_calculator/distance_calculator.egg-info to /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/lib/python3.10/site-packages/distance_calculator-0.0.0-py3.10.egg-info
+[0.817s] running install_scripts
+[0.833s] Installing click_to_depth script to /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/lib/distance_calculator
+[0.833s] Installing distance_calculator script to /home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/lib/distance_calculator
+[0.833s] writing list of installed files to '/home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/install.log'
+[0.852s] Invoked command in '/home/kalyani-robotics/ros2_ws/src/distance_calculator' returned '0': PYTHONPATH=/home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/distance_calculator build --build-base /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/build install --record /home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator/install.log --single-version-externally-managed install_data

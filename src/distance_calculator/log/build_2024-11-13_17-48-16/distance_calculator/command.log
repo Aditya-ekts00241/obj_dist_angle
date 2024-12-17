@@ -1,0 +1,2 @@
+Invoking command in '/home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator': /usr/bin/cmake /home/kalyani-robotics/ros2_ws/src/distance_calculator -DCMAKE_INSTALL_PREFIX=/home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator
+Invoked command in '/home/kalyani-robotics/ros2_ws/src/distance_calculator/build/distance_calculator' returned '1': /usr/bin/cmake /home/kalyani-robotics/ros2_ws/src/distance_calculator -DCMAKE_INSTALL_PREFIX=/home/kalyani-robotics/ros2_ws/src/distance_calculator/install/distance_calculator

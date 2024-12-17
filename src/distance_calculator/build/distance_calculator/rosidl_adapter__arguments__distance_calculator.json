@@ -1,0 +1,6 @@
+{
+  "package_name": "distance_calculator",
+  "non_idl_tuples": [
+    "/home/kalyani-robotics/ros2_ws/src/distance_calculator:srv/Get3DPoint.srv"
+  ]
+}

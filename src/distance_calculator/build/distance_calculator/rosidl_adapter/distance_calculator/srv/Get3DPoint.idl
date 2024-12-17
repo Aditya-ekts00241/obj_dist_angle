@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from distance_calculator/srv/Get3DPoint.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+
+module distance_calculator {
+  module srv {
+    struct Get3DPoint_Request {
+      int32 x;
+
+      int32 y;
+    };
+    struct Get3DPoint_Response {
+      geometry_msgs::msg::Point point;
+    };
+  };
+};
